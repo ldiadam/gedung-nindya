@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459882978406",
+    "firebase_url": "https://adamunindra.firebaseio.com",
+    "project_id": "adamunindra",
+    "storage_bucket": "adamunindra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459882978406:android:5b5c614544d9c484eea1a7",
+        "android_client_info": {
+          "package_name": "com.adam.kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459882978406-5lpnh5b8aq9gn3i1n621ifkg34hfgeue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgHAKTVbV5Q58670AasnFC_mhaSFcpGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459882978406-5lpnh5b8aq9gn3i1n621ifkg34hfgeue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
